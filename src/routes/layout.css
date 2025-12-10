@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+html {
+  width: 100%;
+  height: 100%;
+  color: #e5e7eb; /* soft white */
+}
+
+body {
+  margin: 0;
+  background: linear-gradient(160deg, #040914, #070e1f, #0d0a23);
+  width: 100%;
+  height: 100%;
+}
